@@ -1,0 +1,2 @@
+C:\Users\walru\Desktop\어치\8Old_Games\_8Old_GamesContent\obj\x86\Debug\_4Old_GamesContent.contentprojResolveAssemblyReference.cache
+C:\Users\walru\Source\Repos\4OldGames\8Old_Games\_8Old_GamesContent\obj\x86\Debug\_4Old_GamesContent.contentprojResolveAssemblyReference.cache
